@@ -10,6 +10,10 @@ An AI or software actor capable of performing tasks, producing outputs, using to
 
 The governed network of humans, AI agents, tools, documents, schemas, workflows, and review processes that produces, validates, applies, and revises organizational knowledge.
 
+## Agency
+
+The dimension of the knowledge system that defines who or what can act on a knowledge object, with which permissions, tools, memory access, review requirements, and escalation rules.
+
 ## Artifact
 
 Any produced object: code, document, design, prompt, test, dataset, report, simulation, or generated output. Artifacts should link back to the knowledge objects that produced them.
@@ -37,6 +41,10 @@ A named idea or category with a definition, scope, boundary conditions, examples
 ## Conceptual Debt
 
 The accumulated cost of unclear, outdated, contradictory, or unmodeled assumptions in a company's concepts, specifications, workflows, prompts, software, or agent instructions.
+
+## Consequence
+
+The downstream effect of a knowledge object. Consequence asks what decisions, requirements, specifications, artifacts, prompts, tests, workflows, or agents are affected if the object changes.
 
 ## Constraint
 
@@ -78,6 +86,10 @@ A modeling choice about what distinctions matter. For example, treating a claim 
 
 The practice of designing, maintaining, and evolving the conceptual structure through which an organization represents reality, coordinates humans and agents, preserves memory, and generates software.
 
+## Ontological Engineering Doctrine
+
+The repository's internal framework for the discipline, organized around eight primitives: entity, meaning, evidence, status, time, relationship, agency, and consequence.
+
 ## Provenance
 
 The record of where knowledge came from, how it was produced, which transformations it went through, and how it changed.
@@ -101,4 +113,3 @@ Knowledge represented with time context, including when it was created, observed
 ## Wisdom
 
 Structured judgment that preserves tradeoffs, context, limits, lessons, rejected alternatives, and reasons for action.
-

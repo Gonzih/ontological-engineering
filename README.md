@@ -51,10 +51,15 @@ The documents build one continuous narrative:
 - [Agentic Knowledge Ecosystem](docs/04-agentic-knowledge-ecosystem.md) defines how AI agents participate in acquiring, transforming, validating, and applying knowledge.
 - [Specification-Driven Software](docs/05-specification-driven-software.md) connects the knowledge system to generated software and iterative product development.
 - [Research Agenda](docs/06-research-agenda.md) identifies the open problems required to turn this philosophy into infrastructure.
+- [Academic Foundations](docs/07-academic-foundations.md) maps the idea onto knowledge engineering, ontology engineering, knowledge graphs, provenance, belief revision, organizational memory, design rationale, and requirements engineering.
+- [Ontological Engineering Doctrine](docs/08-ontological-engineering-doctrine.md) states the core primitives and position of the discipline.
 - [Glossary](docs/glossary.md) preserves shared language.
+- [Bibliography](docs/bibliography.md) tracks the academic and standards references behind the synthesis.
 - [Knowledge Object Schema](schemas/knowledge-object.md) proposes the first structured shape for records in the second brain.
 - [Knowledge Lifecycle](schemas/lifecycle.md) defines how information moves from raw input to trusted organizational memory.
+- [Specification Template](templates/specification-template.md) operationalizes the doctrine for software and agent workflow generation.
 - [Voice Note Seed](examples/voice-note-seed.md) shows how an initial direction-setting note can become structured knowledge.
+- [Agent Memory Promotion Example](examples/agent-memory-spec-example.md) demonstrates the doctrine moving from concern to ontology, epistemic rule, specification, and software implications.
 
 ## Design Principles
 
@@ -66,6 +71,16 @@ Comprehensive means the system should represent more than final conclusions. It 
 
 Cohesive means the documents and schemas should describe one connected system. Ontology, epistemology, agents, specifications, and software are not separate topics. They are layers of a single organizational intelligence architecture.
 
+## The Edge
+
+Academia and industry already contain many mature pieces of this puzzle: knowledge engineering, ontology engineering, knowledge representation, organizational memory, knowledge graphs, provenance, design rationale, belief revision, and requirements traceability.
+
+The edge is to integrate those pieces through one lens: ontological engineering for AI-native companies.
+
+That means the company does not treat its knowledge base as a passive archive. It treats it as an operating substrate for agents and software generation. The ontology defines what exists. Epistemology defines what can be trusted. Temporal memory preserves evolution. Relationships preserve dependency. Specifications translate knowledge into behavior. Feedback revises the system.
+
+The doctrine reduces the system to eight primitives: entity, meaning, evidence, status, time, relationship, agency, and consequence.
+
 ## Source Anchors
 
 This work starts from three reference points:
@@ -73,4 +88,3 @@ This work starts from three reference points:
 - Stanford Encyclopedia of Philosophy, "Epistemology": https://plato.stanford.edu/entries/epistemology/
 - Stanford Encyclopedia of Philosophy, "Social Epistemology": https://plato.stanford.edu/entries/epistemology-social/
 - Thomas R. Gruber, "A Translation Approach to Portable Ontology Specifications": https://tomgruber.org/writing/ontolingua-kaj-1993.pdf
-

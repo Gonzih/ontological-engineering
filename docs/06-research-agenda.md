@@ -4,6 +4,10 @@ This repository is both philosophical inquiry and infrastructure design. The phi
 
 The agenda is to turn ontological engineering into a practical discipline for companies that use AI agents as participants in knowledge work and software generation.
 
+The academic foundation is broad. Knowledge engineering gives elicitation and operationalization methods. Ontology engineering gives conceptual modeling and ontology lifecycle methods. Knowledge graphs give graph infrastructure. Provenance gives origin and derivation semantics. Belief revision gives rational change operations. Organizational memory gives the company-level memory problem. Design rationale gives structured deliberation. Requirements engineering gives the bridge from goals to implemented systems.
+
+The research opportunity is integration. The field needs a cohesive discipline that treats these components as one AI-native company memory and software-generation system.
+
 ## The Main Research Program
 
 The research program has one unifying question:
@@ -114,6 +118,22 @@ Open questions:
 
 The goal is to prevent the second brain from becoming a database of conclusions without the reasoning that made those conclusions intelligent.
 
+## Thread 8: Academic Synthesis
+
+The eighth task is turning adjacent research traditions into a unified doctrine.
+
+Open questions:
+
+- Which parts of CommonKADS should be adapted for agentic company memory?
+- Which parts of NeOn should guide ontology network evolution?
+- Which knowledge graph patterns are essential for company-scale reasoning?
+- Which provenance concepts should become mandatory fields?
+- Which belief revision operations map cleanly to company knowledge lifecycle states?
+- Which IBIS or design rationale structures should be first-class objects?
+- Which requirements traceability practices should be extended for generated software?
+
+The goal is not to cite academia for legitimacy. The goal is to mine mature work for primitives that make ontological engineering executable.
+
 ## Design Tensions
 
 Several tensions will shape the work:
@@ -144,4 +164,3 @@ The next phase should make the system more concrete:
 The long-term ambition is an organizational intelligence substrate: a knowledge system that can remember, reason, generate, critique, and evolve with the company.
 
 The system should make the company more coherent over time. It should preserve not only what was built, but why it was built, what knowledge justified it, what changed, and what should happen next.
-
