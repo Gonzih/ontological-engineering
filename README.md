@@ -58,6 +58,7 @@ The documents build one continuous narrative:
 - [Knowledge Object Schema](schemas/knowledge-object.md) proposes the first structured shape for records in the second brain.
 - [Knowledge Lifecycle](schemas/lifecycle.md) defines how information moves from raw input to trusted organizational memory.
 - [Specification Template](templates/specification-template.md) operationalizes the doctrine for software and agent workflow generation.
+- [Multi-Brain Ontological Specification](specifications/multi-brain-ontological-specification.md) applies the doctrine to the `multi-brain` Rust daemon/CLI/MCP project.
 - [Voice Note Seed](examples/voice-note-seed.md) shows how an initial direction-setting note can become structured knowledge.
 - [Agent Memory Promotion Example](examples/agent-memory-spec-example.md) demonstrates the doctrine moving from concern to ontology, epistemic rule, specification, and software implications.
 
